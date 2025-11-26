@@ -17,7 +17,7 @@ Federal Contract Spending (2020–2024)
 
 ![image alt](https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/f8f023fa103ef27460f8e3baedc106ff97844d04/Image/Screenshot%202025-11-25%20190652.png)
 
-![image alt](https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/95987bec1dc0e4ed77f4fd8f728f96edde466a73/Image/Screenshot%202025-11-25%20180421.png)
+![image alt](https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/d37ae06b474682ed69a9604161b617eaea4f5a03/Image/Screenshot%202025-11-25%20190704.png)
 
 Federal contract spending steadily increased from FY2020 to FY2024, rising from $198.6B to $252.8B. The Department of Veterans Affairs, Department of Energy, and Department of Health & Human Services accounted for the majority of the spending, reflecting national priorities in healthcare, energy infrastructure, and research. Heatmap analysis shows clear year-over-year increases in VA and DOE spending, while HHS spending was elevated during COVID-19 years before stabilizing. Overall, spending trends indicate growing investment in public health, national security, and technology modernization.
 
