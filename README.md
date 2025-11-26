@@ -148,7 +148,7 @@ Infrastructure support
 Total Federal Spending: $1,138.24B
 Total Federal Spending: $5,570.54B
 
-
+![image alt](https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/10f0a4e9eea851bf32544006945bb8dd53eb3268/Image/Screenshot%202025-11-26%20161315.png)
 
 Federal grants vastly outweigh contracts in total spending, representing more than 80% of annual federal obligations from 2020–2024. Contracts remain a smaller portion, around 14–18% per year.
 
