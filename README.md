@@ -57,7 +57,7 @@ Federal Contract Spending (2020–2024)
 * FY2024: $252.77B
 
 
-<img src="https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/f8f023fa103ef27460f8e3baedc106ff97844d04/Image/Screenshot%202025-11-25%20190652.png?raw=true" width="600">
+<img src="https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/f8f023fa103ef27460f8e3baedc106ff97844d04/Image/Screenshot%202025-11-25%20190652.png?raw=true" width="800">
 
 
 ![image alt](https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/d37ae06b474682ed69a9604161b617eaea4f5a03/Image/Screenshot%202025-11-25%20190704.png)
