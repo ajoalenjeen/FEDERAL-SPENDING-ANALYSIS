@@ -1,9 +1,15 @@
 # Federal-Spending-Analysis
-## Overview:
+# Overview:
 
-## Analysis
+A complete data-driven analysis of U.S. federal contract and grant spending using Python, Pandas, Plotly, Matplotlib, and Seaborn.
 
-### What is total spending by agency and fiscal year?
+This project investigates where U.S. federal money goes, which agencies and contractors receive the most funding, how concentration emerges, and which agencies pose the highest budget risk.
+
+The analysis is based on ~1.6M+ federal contract and grant records downloaded from USAspending.gov.
+
+# Analysis
+
+## What is total spending by agency and fiscal year?
 
 Total Federal Spending: $1,138.24B
 
@@ -22,7 +28,7 @@ Federal Contract Spending (2020–2024)
 Federal contract spending steadily increased from FY2020 to FY2024, rising from $198.6B to $252.8B. The Department of Veterans Affairs, Department of Energy, and Department of Health & Human Services accounted for the majority of the spending, reflecting national priorities in healthcare, energy infrastructure, and research. Heatmap analysis shows clear year-over-year increases in VA and DOE spending, while HHS spending was elevated during COVID-19 years before stabilizing. Overall, spending trends indicate growing investment in public health, national security, and technology modernization.
 
 
-### Which contractors receive the most federal funding?
+## Which contractors receive the most federal funding?
 
 ![image alt](https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/7f25ffe01e57fa0a96ced690db8d4fc73f0b06b4/Image/Screenshot%202025-11-25%20181729.png)
 
@@ -40,7 +46,7 @@ Optum Public Sector Solutions emerges as the largest contractor starting FY2021,
 Across FY2020-FY2024, health-related vendors receive the largest contract obligations, showing that public health, veterans’ services, and pandemic recovery remain top federal priorities.
 
 
-### What drives spending concentration in certain states or sectors?
+## What drives spending concentration in certain states or sectors?
 
 ![image alt](https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/60cf5a2b95f1e3e23ade336b9922e890662648f3/Image/newplot.png)
 The choropleth map shows that states such as Virginia, Texas, California, Maryland, and Florida capture a disproportionate share of federal contract spending.
@@ -143,7 +149,7 @@ Infrastructure support
 ✔ Conclusion: Facilities support is a large cost center across all agencies.
 
 
-###  How do contracts compare to grants in terms of dollar amounts and recipient concentration?
+##  How do contracts compare to grants in terms of dollar amounts and recipient concentration?
 
 Total Federal Spending: $1,138.24B
 Total Federal Spending: $5,570.54B
@@ -168,7 +174,7 @@ Federal logistics hubs
 
 tend to receive much smaller contract amounts.
 
-### Which agencies show the highest spending growth or budget risk?
+## Which agencies show the highest spending growth or budget risk?
 
 
 Federal contract spending growth and volatility reveal which agencies pose the highest budget risk between FY 2020–2024.
