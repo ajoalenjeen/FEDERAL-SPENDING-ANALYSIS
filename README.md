@@ -85,7 +85,8 @@ Across FY2020-FY2024, health-related vendors receive the largest contract obliga
 
 ## What drives spending concentration in certain states or sectors?
 
-![image alt](https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/7da77a4935b1b9d5203ba53726cbb97ef4a614ac/Image/newplot.png)
+<img src="https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/7da77a4935b1b9d5203ba53726cbb97ef4a614ac/Image/newplot.png?raw=true" width="800">
+
 The choropleth map shows that states such as Virginia, Texas, California, Maryland, and Florida capture a disproportionate share of federal contract spending.
 
 1. Virginia (VA) leads even without DoD data
