@@ -123,7 +123,7 @@ States without:
 
 * Advanced tech industries
 
-![image alt](https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/497a62e5fdb911bd69a6f0ffdd518380bdbeee88/Image/Screenshot%202025-11-25%20214321.png)
+<img src="https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/497a62e5fdb911bd69a6f0ffdd518380bdbeee88/Image/Screenshot%202025-11-25%20214321.pngraw=true" width="800">
 
 The sector bar chart highlights the Top 10 NAICS industries receiving the most federal funds.
 
