@@ -90,12 +90,12 @@ The choropleth map shows that states such as Virginia, Texas, California, Maryla
 
 Virginia remains the highest-spending state because:
 
-It hosts major federal contracting hubs in Northern Virginia (Arlington, Fairfax, Reston, Chantilly).
+* It hosts major federal contracting hubs in Northern Virginia (Arlington, Fairfax, Reston, Chantilly).
 
-Home to large contractors serving civilian agencies
+* Home to large contractors serving civilian agencies
 (e.g., Booz Allen, SAIC, Leidos, GDIT, Accenture Federal).
 
-Many contracts are for IT modernization, cybersecurity, logistics, and healthcare support.
+* Many contracts are for IT modernization, cybersecurity, logistics, and healthcare support.
 
 ✔ Conclusion: Spending is concentrated where federal contractors are physically located.
 
@@ -103,13 +103,13 @@ Many contracts are for IT modernization, cybersecurity, logistics, and healthcar
 
 These states contain:
 
-Major federal hospitals (VA medical centers)
+* Major federal hospitals (VA medical centers)
 
-Large research laboratories (DOE & NIH grantees)
+* Large research laboratories (DOE & NIH grantees)
 
-Border security operations (DHS)
+* Border security operations (DHS)
 
-Strong biotechnology & technology ecosystems
+* Strong biotechnology & technology ecosystems
 
 ✔ Conclusion: States with major infrastructure, medical facilities, or tech ecosystems naturally receive higher obligations.
 
@@ -117,9 +117,9 @@ Strong biotechnology & technology ecosystems
 
 States without:
 
-Large federal labs
+* Large federal labs
 
-Advanced tech industries
+* Advanced tech industries
 
 ![image alt](https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/497a62e5fdb911bd69a6f0ffdd518380bdbeee88/Image/Screenshot%202025-11-25%20214321.png)
 
@@ -127,29 +127,29 @@ The sector bar chart highlights the Top 10 NAICS industries receiving the most f
 
 The biggest sectors include:
 
-Facilities Support Services
+* Facilities Support Services
 
-Health and Medical Insurance Carriers
+* Health and Medical Insurance Carriers
 
-Computer Systems Design Services
+* Computer Systems Design Services
 
-Other Computer-Related Services
+* Other Computer-Related Services
 
-Pharmaceutical & Medical Manufacturing
+* Pharmaceutical & Medical Manufacturing
 
-Research & Development Services
+* Research & Development Services
 
 1. Healthcare dominates due to VA + HHS
 
 The federal government is the largest healthcare purchaser in the U.S., so spending is concentrated in:
 
-Medical supplies & pharmaceuticals
+* Medical supplies & pharmaceuticals
 
-Diagnostics & laboratory services
+* Diagnostics & laboratory services
 
-Health insurance processing
+* Health insurance processing
 
-Hospital facility operations
+* Hospital facility operations
 
 ✔ Conclusion: Healthcare spending is structurally high because VA and HHS rely heavily on private contractors.
 
@@ -157,15 +157,15 @@ Hospital facility operations
 
 Civilian agencies (Treasury, Commerce, HUD, Education, DHS, State) all require:
 
-Cybersecurity
+* Cybersecurity
 
-Cloud migration
+* Cloud migration
 
-Data center operations
+* Data center operations
 
-Software development
+* Software development
 
-Network modernization
+* Network modernization
 
 ✔ Conclusion: Federal IT modernization mandates drive massive spending in IT and computer-related services.
 
@@ -173,13 +173,13 @@ Network modernization
 
 All federal agencies require:
 
-Building operations
+* Building operations
 
-Laboratory upkeep
+* Laboratory upkeep
 
-Real estate services
-
-Infrastructure support
+* Real estate services
+ 
+* Infrastructure support
 
 ✔ Conclusion: Facilities support is a large cost center across all agencies.
 
