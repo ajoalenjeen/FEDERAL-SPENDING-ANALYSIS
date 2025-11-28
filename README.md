@@ -216,7 +216,7 @@ Highest Growth Agencies
 
 * Education (+13.7%), VA (+8.4%), Energy (+6.5%) — strong consistent increases.
 
-* Highest Volatility Agencies (Budget Risk)
+Highest Volatility Agencies (Budget Risk)
 
 * Veterans Affairs ($11.18B volatility) — healthcare, medical supply, hospital infrastructure.
 
