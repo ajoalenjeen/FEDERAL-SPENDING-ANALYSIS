@@ -1,7 +1,7 @@
 # Federal-Spending-Analysis
 # Overview:
 
-A complete data-driven analysis of U.S. federal contract and grant spending using Python, Pandas, Plotly, Matplotlib, and Seaborn.
+A complete data-driven analysis of U.S. federal contract spending using Python, Pandas, Plotly, Matplotlib, and Seaborn.
 
 This project investigates where U.S. federal money goes, which agencies and contractors receive the most funding, how concentration emerges, and which agencies pose the highest budget risk.
 
