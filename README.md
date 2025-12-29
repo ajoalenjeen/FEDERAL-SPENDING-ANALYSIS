@@ -87,106 +87,12 @@ Across FY2020-FY2024, health-related vendors receive the largest contract obliga
 
 <img src="https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/7da77a4935b1b9d5203ba53726cbb97ef4a614ac/Image/newplot.png?raw=true" width="800">
 
-The choropleth map shows that states such as Virginia, Texas, California, Maryland, and Florida capture a disproportionate share of federal contract spending.
-
-1. Virginia (VA) leads even without DoD data
-
-Virginia remains the highest-spending state because:
-
-* It hosts major federal contracting hubs in Northern Virginia (Arlington, Fairfax, Reston, Chantilly).
-
-* Home to large contractors serving civilian agencies
-(e.g., Booz Allen, SAIC, Leidos, GDIT, Accenture Federal).
-
-* Many contracts are for IT modernization, cybersecurity, logistics, and healthcare support.
-
-✔ Conclusion: Spending is concentrated where federal contractors are physically located.
-
-2. Texas (TX) and California (CA) also show significant spending
-
-These states contain:
-
-* Major federal hospitals (VA medical centers)
-
-* Large research laboratories (DOE & NIH grantees)
-
-* Border security operations (DHS)
-
-* Strong biotechnology & technology ecosystems
-
-✔ Conclusion: States with major infrastructure, medical facilities, or tech ecosystems naturally receive higher obligations.
-
-3. Rural or low-population states receive less
-
-States without:
-
-* Large federal labs
-
-* Advanced tech industries
-
 <img src="https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/497a62e5fdb911bd69a6f0ffdd518380bdbeee88/Image/Screenshot%202025-11-25%20214321.png?raw=true" width="800">
+
+The choropleth map shows that states such as Virginia, Texas, California, Maryland, and Florida capture a disproportionate share of federal contract spending.
 
 The sector bar chart highlights the Top 10 NAICS industries receiving the most federal funds.
 
-The biggest sectors include:
-
-* Facilities Support Services
-
-* Health and Medical Insurance Carriers
-
-* Computer Systems Design Services
-
-* Other Computer-Related Services
-
-* Pharmaceutical & Medical Manufacturing
-
-* Research & Development Services
-
-1. Healthcare dominates due to VA + HHS
-
-The federal government is the largest healthcare purchaser in the U.S., so spending is concentrated in:
-
-* Medical supplies & pharmaceuticals
-
-* Diagnostics & laboratory services
-
-* Health insurance processing
-
-* Hospital facility operations
-
-✔ Conclusion: Healthcare spending is structurally high because VA and HHS rely heavily on private contractors.
-
-2. IT Services rank among the top sectors
-
-Civilian agencies (Treasury, Commerce, HUD, Education, DHS, State) all require:
-
-* Cybersecurity
-
-* Cloud migration
-
-* Data center operations
-
-* Software development
-
-* Network modernization
-
-✔ Conclusion: Federal IT modernization mandates drive massive spending in IT and computer-related services.
-
-3. Facility maintenance & construction are major recurring costs
-
-All federal agencies require:
-
-* Building operations
-
-* Laboratory upkeep
-
-* Real estate services
- 
-* Infrastructure support
-
-✔ Conclusion: Facilities support is a large cost center across all agencies.
-
-## What Drives Federal Contract Spending Concentration?
 
 Federal contract spending from 2020–2024 exhibits strong geographic and structural concentration driven by agency operations, vendor dependency, and sector specialization rather than population or economic size alone.
 
