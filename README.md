@@ -44,7 +44,7 @@ https://www.usaspending.gov/search?hash=0f5d91bedf605af1660a7326fd87a92f
 
 # Analysis:
 
-## What is total spending by agency and fiscal year?
+## What is total Contract spending by agency and fiscal year?
 
 Total Federal Spending: $1,138.24B
 
