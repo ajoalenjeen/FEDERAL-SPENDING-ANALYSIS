@@ -5,7 +5,7 @@ A complete data-driven analysis of U.S. federal contract spending using Python, 
 
 This project investigates where U.S. federal money goes, which agencies and contractors receive the most funding, how concentration emerges, and which agencies pose the highest budget risk.
 
-The analysis is based on ~2.5M+ federal contract and grant records downloaded from USAspending.gov.
+The analysis is based on ~2.5M+ federal contract records downloaded from USAspending.gov.
 
 #### Agencies Included in This Analysis:
 
