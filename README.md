@@ -115,7 +115,7 @@ Spending concentration is primarily driven by procurement structure and operatio
 * Total Federal Spending (Contract): $1,138.24B
 * Total Federal Spending (Grants): $6,073.20B
 
-![image alt](https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/10f0a4e9eea851bf32544006945bb8dd53eb3268/Image/Screenshot%202025-11-26%20161315.png)
+![image alt](https://github.com/ajoalenjeen/FEDERAL-SPENDING-ANALYSIS/blob/4e9c89ce0e1cd635b711292ec1699a8f7bb8b4df/Image/Screenshot%202026-01-19%20203145.png)
 
 Federal grants vastly outweigh contracts in total spending, representing more than 80% of annual federal obligations from 2020–2024. Contracts remain a smaller portion, around 14–18% per year.
 
