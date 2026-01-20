@@ -123,7 +123,7 @@ However, when comparing recipient concentration:
 
 * Contracts (HHI = 0.0081) are moderately concentrated. A few major defense, healthcare, and research contractors dominate (e.g., Optum, McKesson, TriWest, National Labs).
 
-* Grants (HHI = 0.01499) are even more concentrated in this dataset. A relatively small number of large state governments, universities, and tribal authorities receive a disproportionate share of total grant dollars.
+* Grants (HHI = 0.01613) are even more concentrated in this dataset. A relatively small number of large state governments, universities, and tribal authorities receive a disproportionate share of total grant dollars.
 
 Conclusion:
 
