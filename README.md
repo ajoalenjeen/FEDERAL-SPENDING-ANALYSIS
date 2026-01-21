@@ -134,7 +134,8 @@ However, when comparing recipient concentration:
 Analysis of federal contract spending from 2020–2024 identifies clear differences across agencies in terms of spending growth and budget risk, measured using year-over-year (YoY) growth and spending volatility (coefficient of variation).
 
 ### Agencies with Highest Spending Growth
-The **Department of Housing and Urban Development (HUD)** shows the strongest growth profile, with a **latest YoY increase of 101.09%** and an **average YoY growth rate of 23.51%**, indicating rapid expansion in contract obligations. Other agencies with notable average growth include the **Department of the Interior (16.03%)**, **Department of Veterans Affairs (13.85%)**, and the **Department of the Treasury (10.92%)**, suggesting sustained increases in spending over the period.
+* The **Department of Housing and Urban Development (HUD)** shows the strongest growth profile, with an **average YoY growth rate of 23.51%**, indicating rapid expansion in contract obligations. 
+* Other agencies with notable average growth include the **Department of the Interior (16.03%)**, **Department of Veterans Affairs (13.85%)**, and the **Department of the Treasury (10.92%)**, suggesting sustained increases in spending over the period.
 
 ### Agencies with Highest Budget Risk
 Budget risk is highest among agencies exhibiting both strong growth and high spending volatility. HUD ranks highest in relative risk, with a **coefficient of variation (CV) of 35.12%**, indicating large year-to-year fluctuations relative to its average spending level. The **Department of the Interior (CV ≈ 24.95%)** and the **Department of Veterans Affairs (CV ≈ 19.78%)** also show elevated risk, reflecting exposure to program-driven or project-based funding cycles. In contrast, agencies such as **Health and Human Services (CV ≈ 4.34%)** and **Justice (CV ≈ 5.69%)** demonstrate more stable spending patterns despite large absolute budgets.
