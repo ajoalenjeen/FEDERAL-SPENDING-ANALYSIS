@@ -109,7 +109,8 @@ Federal contract spending from 2020–2024 exhibits strong geographic and struct
 * Sector HHI values exceed 7,300 in New Mexico and 4,400 in Tennessee, highlighting limited sector diversification within certain states.
 
 **4. Large, high-value contracts**  
-A small number of high-value, multi-year contracts account for a significant share of total obligations. These contracts amplify both vendor and sector concentration by outweighing numerous smaller awards.
+* A small number of high-value, multi-year contracts account for a significant share of total obligations. 
+* These contracts amplify both vendor and sector concentration by outweighing numerous smaller awards.
 
 
 ##  How do contracts compare to grants in terms of dollar amounts and recipient concentration?
