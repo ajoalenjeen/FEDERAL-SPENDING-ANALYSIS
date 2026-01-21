@@ -97,19 +97,20 @@ Federal contract spending from 2020–2024 exhibits strong geographic and struct
 ### Key Drivers
 
 **1. Agency mission and operational footprint**  
-Spending is concentrated in states hosting major federal infrastructure such as agency headquarters, hospitals, laboratories, and long-term facilities. A small number of agencies dominate total obligations within top-spending states, reinforcing structural concentration.
+* Spending is concentrated in states hosting major federal infrastructure such as agency headquarters, hospitals, laboratories, and long-term facilities. 
+* A small number of agencies dominate total obligations within top-spending states, reinforcing structural concentration.
 
 **2. Vendor dependency and limited competition**  
-Vendor-level concentration analysis using the Herfindahl–Hirschman Index (HHI) reveals heavy reliance on a small number of contractors in several states. Vendor HHI values exceed 3,000 in states such as New Mexico, Nevada, Idaho, and Kansas, indicating high market concentration and repeated awards to dominant vendors.
+* Vendor-level concentration analysis using the Herfindahl–Hirschman Index (HHI) reveals heavy reliance on a small number of contractors in several states. 
+* Vendor HHI values exceed 3,000 in states such as New Mexico, Nevada, Idaho, and Kansas, indicating high market concentration and repeated awards to dominant vendors.
 
 **3. Sector specialization**  
-Federal spending is concentrated in a narrow set of specialized industries, including facilities support services, healthcare and medical services, information technology, construction, and research and development. Sector HHI values exceed 7,300 in New Mexico and 4,400 in Tennessee, highlighting limited sector diversification within certain states.
+* Federal spending is concentrated in a narrow set of specialized industries, including facilities support services, healthcare and medical services, information technology, construction, and research and development.
+* Sector HHI values exceed 7,300 in New Mexico and 4,400 in Tennessee, highlighting limited sector diversification within certain states.
 
 **4. Large, high-value contracts**  
 A small number of high-value, multi-year contracts account for a significant share of total obligations. These contracts amplify both vendor and sector concentration by outweighing numerous smaller awards.
 
-### Summary Insight
-Spending concentration is primarily driven by procurement structure and operational necessity. Where agencies operate, which vendors are embedded locally, and which sectors can deliver specialized federal services collectively shape observed concentration patterns across states and industries.
 
 ##  How do contracts compare to grants in terms of dollar amounts and recipient concentration?
 
