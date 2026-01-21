@@ -61,6 +61,7 @@ Federal Contract Spending (2020–2024)
  
 * The Department of Veterans Affairs, Department of Energy, and Department of Health & Human Services accounted for the majority of the spending, reflecting national priorities in healthcare, energy infrastructure, and research. 
 * Heatmap analysis shows clear year-over-year increases in VA and DOE spending, while HHS spending was elevated during COVID-19 years before stabilizing.
+
 Overall, spending trends indicate growing investment in public health, national security, and technology modernization.
 
 
