@@ -128,9 +128,6 @@ However, when comparing recipient concentration:
 
 * Grants (HHI = 0.01613) are even more concentrated in this dataset. A relatively small number of large state governments, universities, and tribal authorities receive a disproportionate share of total grant dollars.
 
-Conclusion:
-
-Even though grants represent far more total dollars, both contracts and grants show measurable concentration — but grants are more concentrated than contracts in this dataset. This suggests much of federal grant money flows to a smaller number of very large public-sector and nonprofit institutions.
 
 ## Which agencies show the highest spending growth or budget risk?
 
