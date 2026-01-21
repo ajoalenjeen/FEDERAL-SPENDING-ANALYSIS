@@ -78,8 +78,6 @@ However, a few vendors consistently dominate due to the government’s reliance 
 
 * National laboratories & defense R&D (Sandia, Triad National Security)
 
-Optum Public Sector Solutions emerges as the largest contractor starting FY2021, reflecting growth in federal health analytics, Medicare/Medicaid data systems, and VA healthcare management.
-
 Across FY2020-FY2024, health-related vendors receive the largest contract obligations, showing that public health, veterans’ services, and pandemic recovery remain top federal priorities.
 
 
