@@ -39,8 +39,7 @@ The project analyzes federal contract spending (2020–2024) across the followin
 
 * Department of Housing and Urban Development (HUD)
 
-# Dataset:
-https://www.usaspending.gov/search?hash=0f5d91bedf605af1660a7326fd87a92f
+Dataset: [here](https://www.usaspending.gov/search?hash=0f5d91bedf605af1660a7326fd87a92f)
 
 # Analysis:
 
